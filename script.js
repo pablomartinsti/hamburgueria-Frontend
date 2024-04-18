@@ -42,7 +42,7 @@ function showScreen(ARRAY) {
 }
 function showDiscount() {
 
-    const discount = menu.map((value) => ({
+    const discount = menu1.map((value) => ({
         ...value,
         price: value.price * 0.9,
 
@@ -68,7 +68,7 @@ function showSum() {
 
 function showFilter() {
 
-    const screenFilter = menu.filter((produtc) => produtc.lanches === false)
+    const screenFilter = menu2.filter((produtc) => produtc.lanches === false)
 
     showScreen(screenFilter)
 
