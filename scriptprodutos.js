@@ -11,7 +11,7 @@ const menu = [
     { name: 'Fanta Uva', price: 4.99, lanches: false, src: './assets/fantauva.png' },
     { name: 'Soda', price: 4.99, lanches: false, src: './assets/soda.png' },
     { name: 'Sprite', price: 4.99, lanches: false, src: './assets/sprite.png' },
-    { name: 'Cebola Empanada', price: 17.99, porcoes: true, src: './assets/cebola.png' },
+    { name: 'Cebola ', price: 17.99, porcoes: true, src: './assets/cebola.png' },
     { name: 'mandioca', price: 14.99, procoes: true, src: './assets/mandioca.png' },
     { name: 'Batata Frita', price: 19.99, porcoes: true, src: './assets/batata.png' },
 

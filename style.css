@@ -97,4 +97,58 @@ h4{
     justify-content: center;
 
 }
+@media screen and (max-width: 1070px){
+
+    .img-header {
+        height: 40px;
+}
+
+a {
+    font-size: 10px;
+    margin-top: 15px;
+}
+
+ul {
+    list-style: none;
+    display: grid;
+    grid-template-columns: 170px 170px;
+    font-size: 25px;
+    font-weight: bold;
+    justify-content: center;
+    padding: 150px;
+    align-items: center;
+    gap: 10px;
+}
+
+li{
+    height: 250px;
+}
+
+.cardapio {
+    width: 90%;
+    height: 60%;
+    margin-bottom: 10px;
+}
+
+p{
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    font-size: 25px;
+    padding: 15px;
+}
+
+h2{
+    font-size: 25px;
+}
+
+h4{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+}
 
