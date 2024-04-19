@@ -49,7 +49,7 @@ ul{
     background: yellow;
     padding: 150px;
     align-items: center;
-    gap: 50px;
+    gap: 100px;
     
     
 }
@@ -60,7 +60,7 @@ li{
     border: 5px solid white;
     height: 400px;
     padding: 15px;
-    cursor: pointer;
+    
 }
 
 .cardapio{
@@ -76,6 +76,27 @@ p{
     color: white;
     margin-top: 5px;
     
+}
+button{
+    color: white;
+    background: red;
+    width:  60%;
+    height:  15%;
+    border: NONE;
+    font-weight: 500;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+
+button:hover{
+    opacity: 0.8;
+}
+
+button:active{
+    opacity: 0.5;
 }
 
 

@@ -5,6 +5,7 @@ const linkREDUCE = document.querySelector('.REDUCE')
 const linkFILTER = document.querySelector('.FILTER')
 
 
+
 function formatMoeda(value) {
 
     const newvalue = new Intl.NumberFormat('pt-br', 
@@ -32,9 +33,12 @@ function showScreen(ARRAY) {
          <p>${item.name}</p>
 
          <h4>${formatMoeda(item.price)}</h4>
+       
+
+        
     </li>
     
-    `
+    ` 
     })
 
     list.innerHTML = myprodutc
@@ -73,6 +77,9 @@ function showFilter() {
     showScreen(screenFilter)
 
 }
+
+
+
 
 linkFOREACH.addEventListener('click', () => showScreen(menu))
 linkMAP.addEventListener('click', showDiscount)
