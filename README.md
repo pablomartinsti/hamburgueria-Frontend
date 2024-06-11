@@ -1,4 +1,4 @@
-<h2> Nesse Projeto foi desenvolvido com </h2>
+<h2> Nesse Projeto foi Desenvolvido com </h2>
 
   
  <h3>FOREACH
