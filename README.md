@@ -14,7 +14,11 @@
   <br>
   filter  usado pra filtra um tipo de produto.</p>
 
-
+  <h5>Tecnologia usadas <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
+<img src ="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" >
+<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+ <br>
+  <br>
   Link do projeto: https://pablomartinsti.github.io/hamburgueria/
 
 <img src ="https://github.com/pablomartinsti/hamburgueria/blob/main/assets/project%20result.png">
