@@ -1,24 +1,26 @@
-<h2> Projeto Criando para usar os Conhecimentos Aprendido </h2>
+<h1>Hamburgueria</h1>
 
-<p>Nesse projeto foi usado FOREACH , MAP , REDUCE , FILTER </p>
-
-  
- <p>foreach usado para mostra todos os produtos do cardapio na tela.
-  <br>
-  <br>
-  map usado pra dar 10% de desconto em alguns produtos.
-  <br>
-  <br>
-  reduce usado para somar todos os produtos.
-  <br>
-  <br>
-  filter  usado pra filtra um tipo de produto.</p>
-
-  <h5>Tecnologia usadas <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
-<img src ="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" >
-<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<p>Este é o frontend de um projeto de hamburgueria, onde implementei e aprendi sobre as funcionalidades de <strong>filter</strong>, <strong>map</strong> e <strong>reduce</strong> no JavaScript.</p>
+<h2>Tecnologias Utilizadas</h2>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
+<h2>Funcionalidades</h2>
+<ul>
+  <li>Exibição de produtos: Os produtos são listados e podem ser filtrados de acordo com as preferências do usuário.</li>
+  <li>Adição de itens ao carrinho: Utilizei <strong>map</strong> para renderizar a lista de produtos e <strong>filter</strong> para filtrar os itens exibidos.</li>
+  <li>Cálculo de valores: O <strong>reduce</strong> é utilizado para calcular o valor total dos produtos no carrinho.</li>
+</ul>
+<h2>O que eu aprendi</h2>
+<ul>
+  <li><strong>Map</strong>: Transformar arrays e renderizar elementos da lista de produtos.</li>
+  <li><strong>Filter</strong>: Filtrar os produtos com base em critérios como categoria ou preço.</li>
+  <li><strong>Reduce</strong>: Somar os valores dos itens no carrinho, retornando o valor total.</li>
+</ul>
+<h2>Deploy</h2>
+<p>Acesse o projeto rodando diretamente pelo link: <a href="https://pablomartinsti.github.io/hamburgueria">Acessar/</a></p>
  <br>
   <br>
-  Link do projeto: https://pablomartinsti.github.io/hamburgueria/
-
 <img src ="https://github.com/pablomartinsti/hamburgueria/blob/main/assets/project%20result.png">
