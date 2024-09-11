@@ -20,7 +20,7 @@
   <li><strong>Reduce</strong>: Somar os valores dos itens no carrinho, retornando o valor total.</li>
 </ul>
 <h2>Deploy</h2>
-<p>Acesse o projeto rodando diretamente pelo link: <a href="https://pablomartinsti.github.io/hamburgueria">Acessar/</a></p>
+<p>Acesse o projeto rodando diretamente pelo link: <a href="https://pablomartinsti.github.io/hamburgueria-Frontend/">Acessar/</a></p>
  <br>
   <br>
 <img src ="https://github.com/pablomartinsti/hamburgueria/blob/main/assets/project%20result.png">
